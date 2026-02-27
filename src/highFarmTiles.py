@@ -4,17 +4,15 @@ from util import *
 
 def get_high_farm_tiles():
     
-    maps_dict = get_maps_dict()
     farm_counts = {}
-    for coords in maps_dict:
-        farm_counts[coords] = get_number_of_farms(maps_dict[coords])
-
+    for coords, tile in map_data_instance.tiles_dict.items():
+        farm_counts[coords] = map_data_instance.get_number_of_farms(tile)
 
     counted_neighbor_farms = {}
     for i in range(26, 32, 1):
         print(f'--- Tiles with {i} neighboring farms ---')
         for coords in farm_counts:
-            if is_settlable(maps_dict[coords]) is False:
+            if map_data_instance.is_settlable(map_data_instance.tiles_dict[coords]) is False:
                 continue
             neighbor_farms = 0
             x, y = coords
@@ -23,10 +21,10 @@ def get_high_farm_tiles():
                 if neighbor in farm_counts:
                     neighbor_farms += farm_counts[neighbor]
             if neighbor_farms == i:
-                if is_center(maps_dict[coords]):
+                if map_data_instance.is_center(map_data_instance.tiles_dict[coords]):
                     position = 'center'
                 else:
-                    position = f'quadrant {get_quadrant(maps_dict[coords])}'
+                    position = f'quadrant {map_data_instance.get_quadrant(map_data_instance.tiles_dict[coords])}'
                 print(f'Coords: {coords} | Position: {position}')
                 counted_neighbor_farms[coords] = neighbor_farms
                 
@@ -47,8 +45,8 @@ def get_high_farm_tiles():
         'mountains': (169, 169, 169),
         'landmark': (255, 215, 0)
     }
-    for coords in maps_dict:
-        tile = maps_dict[coords]
+    for coords in map_data_instance.tiles_dict:
+        tile = map_data_instance.tiles_dict[coords]
         # color = type_colors.get(tile['type'], (0, 0, 0))
         color = type_colors['plains']
         x, y = coords
@@ -59,7 +57,7 @@ def get_high_farm_tiles():
                     color_base = (counted_neighbor_farms[coords] - 26) * 50
                     highlight_color = (color_base, color_base, color_base)
                     map_image.putpixel((x * tile_size + i, y * tile_size + j), highlight_color)
-                elif is_center(tile):
+                elif map_data_instance.is_center(tile):
                     map_image.putpixel((x * tile_size + i, y * tile_size + j), (34, 70, 34))
                 else:
                     map_image.putpixel((x * tile_size + i, y * tile_size + j), color)
