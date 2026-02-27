@@ -108,5 +108,5 @@ def get_high_resource_tiles():
     map_image.save('maps/generated_map_high_res.png')
 
 if __name__ == '__main__':
-    # get_high_resource_tiles()
+    get_high_resource_tiles()
     get_high_hills_tiles()
