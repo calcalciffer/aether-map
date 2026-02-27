@@ -22,11 +22,13 @@ class map_data:
     def get_number_of_farms(self, tile):
         return self.tile_types[tile['tile_type']]["food"]
 
-    # def get_map_resources(self):
-    #     resources = {}
-    #     for (coords, tile) in self.maps_dict:
-    #         resources[coords] = tile['tile_type']
-    #     return resources
+    def get_resource_count(self, coords, resource_type):
+        tile = self.tiles_dict[coords]
+        return self.tile_types[tile['tile_type']][resource_type]
+
+    def get_total_resource_count(self, coords):
+        tile = self.tiles_dict[coords]
+        return self.tile_types[tile['tile_type']]["sum"]
 
     def is_center(self, tile, center_x = 76, center_y = 76, radius = 16):
         return (center_x - radius <= tile['x'] <= center_x + radius) and \

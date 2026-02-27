@@ -1,0 +1,1014 @@
+--- Tiles with 10 neighboring wood ---
+Coords: (15, 76) | Position: quadrant SW | Total neighboring resources: 40
+Coords: (16, 118) | Position: quadrant SW | Total neighboring resources: 43
+Coords: (27, 12) | Position: quadrant NW | Total neighboring resources: 41
+Coords: (30, 29) | Position: quadrant NW | Total neighboring resources: 40
+Coords: (50, 29) | Position: quadrant NW | Total neighboring resources: 40
+Coords: (51, 45) | Position: quadrant NW | Total neighboring resources: 40
+Coords: (59, 149) | Position: quadrant SW | Total neighboring resources: 40
+Coords: (64, 127) | Position: quadrant SW | Total neighboring resources: 40
+Coords: (76, 122) | Position: quadrant SE | Total neighboring resources: 43
+Coords: (82, 19) | Position: quadrant NE | Total neighboring resources: 40
+Coords: (84, 89) | Position: center | Total neighboring resources: 40
+Coords: (98, 101) | Position: quadrant SE | Total neighboring resources: 41
+Coords: (101, 54) | Position: quadrant NE | Total neighboring resources: 42
+Coords: (131, 46) | Position: quadrant NE | Total neighboring resources: 41
+--- Tiles with 11 neighboring wood ---
+Coords: (9, 2) | Position: quadrant NW | Total neighboring resources: 41
+Coords: (16, 102) | Position: quadrant SW | Total neighboring resources: 40
+Coords: (45, 127) | Position: quadrant SW | Total neighboring resources: 41
+Coords: (48, 29) | Position: quadrant NW | Total neighboring resources: 40
+Coords: (54, 32) | Position: quadrant NW | Total neighboring resources: 40
+Coords: (54, 115) | Position: quadrant SW | Total neighboring resources: 40
+Coords: (82, 64) | Position: center | Total neighboring resources: 41
+Coords: (84, 12) | Position: quadrant NE | Total neighboring resources: 40
+Coords: (84, 149) | Position: quadrant SE | Total neighboring resources: 40
+Coords: (89, 55) | Position: quadrant NE | Total neighboring resources: 40
+Coords: (94, 57) | Position: quadrant NE | Total neighboring resources: 40
+Coords: (110, 89) | Position: quadrant SE | Total neighboring resources: 41
+Coords: (117, 144) | Position: quadrant SE | Total neighboring resources: 40
+--- Tiles with 12 neighboring wood ---
+Coords: (10, 2) | Position: quadrant NW | Total neighboring resources: 40
+Coords: (15, 119) | Position: quadrant SW | Total neighboring resources: 40
+Coords: (58, 75) | Position: quadrant NW | Total neighboring resources: 41
+Coords: (60, 81) | Position: center | Total neighboring resources: 40
+Coords: (67, 122) | Position: quadrant SW | Total neighboring resources: 41
+Coords: (73, 139) | Position: quadrant SW | Total neighboring resources: 40
+Coords: (78, 58) | Position: quadrant NE | Total neighboring resources: 40
+Coords: (143, 96) | Position: quadrant SE | Total neighboring resources: 40
+--- Tiles with 13 neighboring wood ---
+Coords: (1, 87) | Position: quadrant SW | Total neighboring resources: 42
+Coords: (59, 41) | Position: quadrant NW | Total neighboring resources: 40
+Coords: (88, 77) | Position: center | Total neighboring resources: 41
+Coords: (135, 99) | Position: quadrant SE | Total neighboring resources: 40
+--- Tiles with 14 neighboring wood ---
+Coords: (115, 103) | Position: quadrant SE | Total neighboring resources: 41
+Coords: (141, 95) | Position: quadrant SE | Total neighboring resources: 40
+--- Tiles with 15 neighboring wood ---
+Coords: (68, 37) | Position: quadrant NW | Total neighboring resources: 40
+Coords: (82, 20) | Position: quadrant NE | Total neighboring resources: 41
+--- Tiles with 16 neighboring wood ---
+Coords: (1, 85) | Position: quadrant SW | Total neighboring resources: 40
+Coords: (108, 133) | Position: quadrant SE | Total neighboring resources: 40
+--- Tiles with 17 neighboring wood ---
+--- Tiles with 18 neighboring wood ---
+--- Tiles with 19 neighboring wood ---
+--- Tiles with 20 neighboring wood ---
+--- Tiles with 21 neighboring wood ---
+--- Tiles with 22 neighboring wood ---
+--- Tiles with 23 neighboring wood ---
+--- Tiles with 24 neighboring wood ---
+--- Tiles with 25 neighboring wood ---
+--- Tiles with 26 neighboring wood ---
+--- Tiles with 27 neighboring wood ---
+--- Tiles with 28 neighboring wood ---
+--- Tiles with 29 neighboring wood ---
+--- Tiles with 30 neighboring wood ---
+--- Tiles with 31 neighboring wood ---
+--- Tiles with 10 neighboring stone ---
+Coords: (4, 117) | Position: quadrant SW | Total neighboring resources: 40
+Coords: (9, 76) | Position: quadrant SW | Total neighboring resources: 40
+Coords: (15, 119) | Position: quadrant SW | Total neighboring resources: 40
+Coords: (20, 31) | Position: quadrant NW | Total neighboring resources: 40
+Coords: (29, 110) | Position: quadrant SW | Total neighboring resources: 41
+Coords: (37, 135) | Position: quadrant SW | Total neighboring resources: 40
+Coords: (40, 73) | Position: quadrant NW | Total neighboring resources: 40
+Coords: (41, 103) | Position: quadrant SW | Total neighboring resources: 41
+Coords: (42, 72) | Position: quadrant NW | Total neighboring resources: 40
+Coords: (42, 92) | Position: quadrant SW | Total neighboring resources: 40
+Coords: (45, 135) | Position: quadrant SW | Total neighboring resources: 40
+Coords: (47, 135) | Position: quadrant SW | Total neighboring resources: 40
+Coords: (48, 103) | Position: quadrant SW | Total neighboring resources: 40
+Coords: (49, 134) | Position: quadrant SW | Total neighboring resources: 40
+Coords: (52, 32) | Position: quadrant NW | Total neighboring resources: 43
+Coords: (56, 46) | Position: quadrant NW | Total neighboring resources: 40
+Coords: (58, 77) | Position: quadrant SW | Total neighboring resources: 42
+Coords: (59, 77) | Position: quadrant SW | Total neighboring resources: 40
+Coords: (69, 62) | Position: center | Total neighboring resources: 40
+Coords: (75, 74) | Position: center | Total neighboring resources: 40
+Coords: (75, 75) | Position: center | Total neighboring resources: 42
+Coords: (76, 120) | Position: quadrant SE | Total neighboring resources: 42
+Coords: (79, 72) | Position: center | Total neighboring resources: 40
+Coords: (79, 87) | Position: center | Total neighboring resources: 40
+Coords: (80, 89) | Position: center | Total neighboring resources: 41
+Coords: (84, 69) | Position: center | Total neighboring resources: 41
+Coords: (85, 78) | Position: center | Total neighboring resources: 40
+Coords: (95, 3) | Position: quadrant NE | Total neighboring resources: 40
+Coords: (96, 3) | Position: quadrant NE | Total neighboring resources: 40
+Coords: (104, 42) | Position: quadrant NE | Total neighboring resources: 41
+Coords: (109, 121) | Position: quadrant SE | Total neighboring resources: 42
+Coords: (114, 109) | Position: quadrant SE | Total neighboring resources: 41
+Coords: (115, 59) | Position: quadrant NE | Total neighboring resources: 40
+Coords: (124, 58) | Position: quadrant NE | Total neighboring resources: 40
+Coords: (127, 89) | Position: quadrant SE | Total neighboring resources: 40
+Coords: (128, 44) | Position: quadrant NE | Total neighboring resources: 40
+Coords: (129, 106) | Position: quadrant SE | Total neighboring resources: 40
+Coords: (129, 121) | Position: quadrant SE | Total neighboring resources: 41
+Coords: (133, 52) | Position: quadrant NE | Total neighboring resources: 41
+Coords: (137, 3) | Position: quadrant NE | Total neighboring resources: 41
+Coords: (143, 95) | Position: quadrant SE | Total neighboring resources: 40
+Coords: (145, 114) | Position: quadrant SE | Total neighboring resources: 40
+Coords: (145, 144) | Position: quadrant SE | Total neighboring resources: 41
+--- Tiles with 11 neighboring stone ---
+Coords: (3, 16) | Position: quadrant NW | Total neighboring resources: 41
+Coords: (3, 67) | Position: quadrant NW | Total neighboring resources: 41
+Coords: (16, 118) | Position: quadrant SW | Total neighboring resources: 43
+Coords: (16, 136) | Position: quadrant SW | Total neighboring resources: 41
+Coords: (17, 140) | Position: quadrant SW | Total neighboring resources: 40
+Coords: (21, 137) | Position: quadrant SW | Total neighboring resources: 40
+Coords: (23, 31) | Position: quadrant NW | Total neighboring resources: 40
+Coords: (26, 14) | Position: quadrant NW | Total neighboring resources: 40
+Coords: (27, 12) | Position: quadrant NW | Total neighboring resources: 41
+Coords: (30, 29) | Position: quadrant NW | Total neighboring resources: 40
+Coords: (30, 109) | Position: quadrant SW | Total neighboring resources: 40
+Coords: (31, 46) | Position: quadrant NW | Total neighboring resources: 40
+Coords: (36, 142) | Position: quadrant SW | Total neighboring resources: 41
+Coords: (41, 71) | Position: quadrant NW | Total neighboring resources: 41
+Coords: (44, 6) | Position: quadrant NW | Total neighboring resources: 40
+Coords: (46, 33) | Position: quadrant NW | Total neighboring resources: 40
+Coords: (49, 142) | Position: quadrant SW | Total neighboring resources: 41
+Coords: (56, 39) | Position: quadrant NW | Total neighboring resources: 40
+Coords: (59, 18) | Position: quadrant NW | Total neighboring resources: 40
+Coords: (60, 1) | Position: quadrant NW | Total neighboring resources: 41
+Coords: (61, 1) | Position: quadrant NW | Total neighboring resources: 42
+Coords: (61, 48) | Position: quadrant NW | Total neighboring resources: 41
+Coords: (64, 94) | Position: quadrant SW | Total neighboring resources: 41
+Coords: (64, 147) | Position: quadrant SW | Total neighboring resources: 41
+Coords: (68, 55) | Position: quadrant NW | Total neighboring resources: 41
+Coords: (70, 25) | Position: quadrant NW | Total neighboring resources: 41
+Coords: (71, 15) | Position: quadrant NW | Total neighboring resources: 40
+Coords: (73, 32) | Position: quadrant NW | Total neighboring resources: 40
+Coords: (74, 121) | Position: quadrant SW | Total neighboring resources: 40
+Coords: (76, 118) | Position: quadrant SE | Total neighboring resources: 40
+Coords: (76, 122) | Position: quadrant SE | Total neighboring resources: 43
+Coords: (77, 5) | Position: quadrant NE | Total neighboring resources: 41
+Coords: (79, 129) | Position: quadrant SE | Total neighboring resources: 42
+Coords: (83, 94) | Position: quadrant SE | Total neighboring resources: 40
+Coords: (84, 149) | Position: quadrant SE | Total neighboring resources: 40
+Coords: (86, 36) | Position: quadrant NE | Total neighboring resources: 41
+Coords: (86, 37) | Position: quadrant NE | Total neighboring resources: 40
+Coords: (88, 7) | Position: quadrant NE | Total neighboring resources: 40
+Coords: (88, 8) | Position: quadrant NE | Total neighboring resources: 40
+Coords: (89, 55) | Position: quadrant NE | Total neighboring resources: 40
+Coords: (98, 101) | Position: quadrant SE | Total neighboring resources: 41
+Coords: (99, 54) | Position: quadrant NE | Total neighboring resources: 41
+Coords: (101, 49) | Position: quadrant NE | Total neighboring resources: 40
+Coords: (102, 36) | Position: quadrant NE | Total neighboring resources: 40
+Coords: (108, 17) | Position: quadrant NE | Total neighboring resources: 40
+Coords: (110, 123) | Position: quadrant SE | Total neighboring resources: 41
+Coords: (115, 86) | Position: quadrant SE | Total neighboring resources: 40
+Coords: (116, 59) | Position: quadrant NE | Total neighboring resources: 41
+Coords: (117, 144) | Position: quadrant SE | Total neighboring resources: 40
+Coords: (122, 54) | Position: quadrant NE | Total neighboring resources: 40
+Coords: (124, 54) | Position: quadrant NE | Total neighboring resources: 41
+Coords: (128, 121) | Position: quadrant SE | Total neighboring resources: 40
+Coords: (129, 17) | Position: quadrant NE | Total neighboring resources: 40
+Coords: (129, 119) | Position: quadrant SE | Total neighboring resources: 41
+Coords: (130, 19) | Position: quadrant NE | Total neighboring resources: 41
+Coords: (138, 3) | Position: quadrant NE | Total neighboring resources: 40
+Coords: (138, 5) | Position: quadrant NE | Total neighboring resources: 40
+Coords: (147, 135) | Position: quadrant SE | Total neighboring resources: 40
+--- Tiles with 12 neighboring stone ---
+Coords: (4, 110) | Position: quadrant SW | Total neighboring resources: 41
+Coords: (16, 142) | Position: quadrant SW | Total neighboring resources: 42
+Coords: (20, 2) | Position: quadrant NW | Total neighboring resources: 40
+Coords: (21, 48) | Position: quadrant NW | Total neighboring resources: 41
+Coords: (27, 122) | Position: quadrant SW | Total neighboring resources: 40
+Coords: (29, 74) | Position: quadrant NW | Total neighboring resources: 40
+Coords: (31, 110) | Position: quadrant SW | Total neighboring resources: 40
+Coords: (32, 13) | Position: quadrant NW | Total neighboring resources: 40
+Coords: (32, 61) | Position: quadrant NW | Total neighboring resources: 41
+Coords: (36, 52) | Position: quadrant NW | Total neighboring resources: 41
+Coords: (40, 36) | Position: quadrant NW | Total neighboring resources: 40
+Coords: (43, 76) | Position: quadrant SW | Total neighboring resources: 41
+Coords: (43, 92) | Position: quadrant SW | Total neighboring resources: 41
+Coords: (45, 119) | Position: quadrant SW | Total neighboring resources: 40
+Coords: (45, 127) | Position: quadrant SW | Total neighboring resources: 41
+Coords: (48, 8) | Position: quadrant NW | Total neighboring resources: 41
+Coords: (51, 45) | Position: quadrant NW | Total neighboring resources: 40
+Coords: (55, 68) | Position: quadrant NW | Total neighboring resources: 40
+Coords: (56, 1) | Position: quadrant NW | Total neighboring resources: 42
+Coords: (59, 1) | Position: quadrant NW | Total neighboring resources: 40
+Coords: (59, 16) | Position: quadrant NW | Total neighboring resources: 40
+Coords: (59, 149) | Position: quadrant SW | Total neighboring resources: 40
+Coords: (64, 105) | Position: quadrant SW | Total neighboring resources: 40
+Coords: (65, 135) | Position: quadrant SW | Total neighboring resources: 40
+Coords: (71, 95) | Position: quadrant SW | Total neighboring resources: 40
+Coords: (71, 142) | Position: quadrant SW | Total neighboring resources: 42
+Coords: (75, 77) | Position: center | Total neighboring resources: 43
+Coords: (79, 6) | Position: quadrant NE | Total neighboring resources: 40
+Coords: (81, 87) | Position: center | Total neighboring resources: 43
+Coords: (82, 90) | Position: center | Total neighboring resources: 41
+Coords: (84, 130) | Position: quadrant SE | Total neighboring resources: 41
+Coords: (87, 147) | Position: quadrant SE | Total neighboring resources: 40
+Coords: (94, 146) | Position: quadrant SE | Total neighboring resources: 40
+Coords: (98, 120) | Position: quadrant SE | Total neighboring resources: 41
+Coords: (99, 22) | Position: quadrant NE | Total neighboring resources: 41
+Coords: (102, 56) | Position: quadrant NE | Total neighboring resources: 40
+Coords: (102, 82) | Position: quadrant SE | Total neighboring resources: 40
+Coords: (105, 83) | Position: quadrant SE | Total neighboring resources: 40
+Coords: (107, 52) | Position: quadrant NE | Total neighboring resources: 40
+Coords: (109, 133) | Position: quadrant SE | Total neighboring resources: 41
+Coords: (115, 37) | Position: quadrant NE | Total neighboring resources: 41
+Coords: (117, 36) | Position: quadrant NE | Total neighboring resources: 40
+Coords: (119, 129) | Position: quadrant SE | Total neighboring resources: 40
+Coords: (121, 140) | Position: quadrant SE | Total neighboring resources: 40
+Coords: (124, 79) | Position: quadrant SE | Total neighboring resources: 40
+Coords: (125, 77) | Position: quadrant SE | Total neighboring resources: 40
+Coords: (130, 17) | Position: quadrant NE | Total neighboring resources: 41
+Coords: (136, 85) | Position: quadrant SE | Total neighboring resources: 40
+Coords: (137, 83) | Position: quadrant SE | Total neighboring resources: 40
+Coords: (140, 6) | Position: quadrant NE | Total neighboring resources: 45
+Coords: (142, 50) | Position: quadrant NE | Total neighboring resources: 40
+Coords: (142, 129) | Position: quadrant SE | Total neighboring resources: 40
+--- Tiles with 13 neighboring stone ---
+Coords: (2, 122) | Position: quadrant SW | Total neighboring resources: 40
+Coords: (8, 31) | Position: quadrant NW | Total neighboring resources: 41
+Coords: (11, 2) | Position: quadrant NW | Total neighboring resources: 41
+Coords: (15, 74) | Position: quadrant NW | Total neighboring resources: 40
+Coords: (41, 77) | Position: quadrant SW | Total neighboring resources: 40
+Coords: (44, 4) | Position: quadrant NW | Total neighboring resources: 40
+Coords: (46, 102) | Position: quadrant SW | Total neighboring resources: 41
+Coords: (51, 34) | Position: quadrant NW | Total neighboring resources: 41
+Coords: (70, 55) | Position: quadrant NW | Total neighboring resources: 40
+Coords: (76, 116) | Position: quadrant SE | Total neighboring resources: 40
+Coords: (78, 131) | Position: quadrant SE | Total neighboring resources: 42
+Coords: (80, 127) | Position: quadrant SE | Total neighboring resources: 42
+Coords: (81, 11) | Position: quadrant NE | Total neighboring resources: 41
+Coords: (82, 127) | Position: quadrant SE | Total neighboring resources: 43
+Coords: (91, 56) | Position: quadrant NE | Total neighboring resources: 40
+Coords: (93, 95) | Position: quadrant SE | Total neighboring resources: 40
+Coords: (96, 120) | Position: quadrant SE | Total neighboring resources: 40
+Coords: (107, 80) | Position: quadrant SE | Total neighboring resources: 40
+Coords: (107, 82) | Position: quadrant SE | Total neighboring resources: 41
+Coords: (116, 23) | Position: quadrant NE | Total neighboring resources: 40
+Coords: (118, 129) | Position: quadrant SE | Total neighboring resources: 40
+Coords: (123, 56) | Position: quadrant NE | Total neighboring resources: 42
+Coords: (123, 78) | Position: quadrant SE | Total neighboring resources: 42
+Coords: (124, 56) | Position: quadrant NE | Total neighboring resources: 42
+Coords: (128, 59) | Position: quadrant NE | Total neighboring resources: 41
+Coords: (129, 19) | Position: quadrant NE | Total neighboring resources: 41
+Coords: (131, 46) | Position: quadrant NE | Total neighboring resources: 41
+Coords: (145, 5) | Position: quadrant NE | Total neighboring resources: 40
+Coords: (145, 140) | Position: quadrant SE | Total neighboring resources: 41
+Coords: (147, 13) | Position: quadrant NE | Total neighboring resources: 41
+--- Tiles with 14 neighboring stone ---
+Coords: (1, 45) | Position: quadrant NW | Total neighboring resources: 41
+Coords: (1, 67) | Position: quadrant NW | Total neighboring resources: 41
+Coords: (3, 111) | Position: quadrant SW | Total neighboring resources: 41
+Coords: (5, 17) | Position: quadrant NW | Total neighboring resources: 41
+Coords: (20, 21) | Position: quadrant NW | Total neighboring resources: 41
+Coords: (49, 136) | Position: quadrant SW | Total neighboring resources: 42
+Coords: (57, 110) | Position: quadrant SW | Total neighboring resources: 40
+Coords: (69, 122) | Position: quadrant SW | Total neighboring resources: 40
+Coords: (72, 32) | Position: quadrant NW | Total neighboring resources: 41
+Coords: (82, 92) | Position: center | Total neighboring resources: 41
+Coords: (88, 9) | Position: quadrant NE | Total neighboring resources: 41
+Coords: (97, 21) | Position: quadrant NE | Total neighboring resources: 41
+Coords: (97, 75) | Position: quadrant NE | Total neighboring resources: 41
+Coords: (98, 135) | Position: quadrant SE | Total neighboring resources: 42
+Coords: (100, 56) | Position: quadrant NE | Total neighboring resources: 42
+Coords: (100, 82) | Position: quadrant SE | Total neighboring resources: 40
+Coords: (105, 52) | Position: quadrant NE | Total neighboring resources: 40
+Coords: (109, 92) | Position: quadrant SE | Total neighboring resources: 40
+Coords: (114, 59) | Position: quadrant NE | Total neighboring resources: 41
+Coords: (120, 18) | Position: quadrant NE | Total neighboring resources: 40
+Coords: (137, 148) | Position: quadrant SE | Total neighboring resources: 41
+Coords: (141, 1) | Position: quadrant NE | Total neighboring resources: 40
+--- Tiles with 15 neighboring stone ---
+Coords: (42, 94) | Position: quadrant SW | Total neighboring resources: 41
+Coords: (58, 48) | Position: quadrant NW | Total neighboring resources: 40
+Coords: (60, 30) | Position: quadrant NW | Total neighboring resources: 41
+Coords: (88, 10) | Position: quadrant NE | Total neighboring resources: 40
+Coords: (91, 123) | Position: quadrant SE | Total neighboring resources: 40
+Coords: (93, 37) | Position: quadrant NE | Total neighboring resources: 40
+Coords: (100, 58) | Position: quadrant NE | Total neighboring resources: 41
+Coords: (101, 43) | Position: quadrant NE | Total neighboring resources: 40
+Coords: (107, 81) | Position: quadrant SE | Total neighboring resources: 41
+Coords: (110, 18) | Position: quadrant NE | Total neighboring resources: 41
+Coords: (129, 108) | Position: quadrant SE | Total neighboring resources: 42
+--- Tiles with 16 neighboring stone ---
+Coords: (13, 22) | Position: quadrant NW | Total neighboring resources: 40
+Coords: (39, 107) | Position: quadrant SW | Total neighboring resources: 43
+Coords: (75, 38) | Position: quadrant NW | Total neighboring resources: 41
+Coords: (78, 129) | Position: quadrant SE | Total neighboring resources: 40
+Coords: (95, 125) | Position: quadrant SE | Total neighboring resources: 40
+Coords: (100, 59) | Position: quadrant NE | Total neighboring resources: 41
+Coords: (102, 58) | Position: quadrant NE | Total neighboring resources: 40
+Coords: (130, 15) | Position: quadrant NE | Total neighboring resources: 40
+Coords: (145, 135) | Position: quadrant SE | Total neighboring resources: 40
+--- Tiles with 17 neighboring stone ---
+Coords: (8, 39) | Position: quadrant NW | Total neighboring resources: 43
+Coords: (50, 34) | Position: quadrant NW | Total neighboring resources: 42
+Coords: (78, 117) | Position: quadrant SE | Total neighboring resources: 41
+Coords: (90, 9) | Position: quadrant NE | Total neighboring resources: 42
+--- Tiles with 18 neighboring stone ---
+Coords: (10, 39) | Position: quadrant NW | Total neighboring resources: 43
+Coords: (22, 89) | Position: quadrant SW | Total neighboring resources: 42
+Coords: (35, 19) | Position: quadrant NW | Total neighboring resources: 41
+Coords: (35, 21) | Position: quadrant NW | Total neighboring resources: 40
+Coords: (75, 48) | Position: quadrant NW | Total neighboring resources: 45
+Coords: (89, 4) | Position: quadrant NE | Total neighboring resources: 40
+Coords: (115, 31) | Position: quadrant NE | Total neighboring resources: 41
+Coords: (130, 108) | Position: quadrant SE | Total neighboring resources: 41
+--- Tiles with 19 neighboring stone ---
+--- Tiles with 20 neighboring stone ---
+Coords: (24, 68) | Position: quadrant NW | Total neighboring resources: 40
+--- Tiles with 21 neighboring stone ---
+--- Tiles with 22 neighboring stone ---
+--- Tiles with 23 neighboring stone ---
+--- Tiles with 24 neighboring stone ---
+--- Tiles with 25 neighboring stone ---
+--- Tiles with 26 neighboring stone ---
+--- Tiles with 27 neighboring stone ---
+--- Tiles with 28 neighboring stone ---
+--- Tiles with 29 neighboring stone ---
+--- Tiles with 30 neighboring stone ---
+--- Tiles with 31 neighboring stone ---
+--- Tiles with 10 neighboring iron ---
+Coords: (1, 87) | Position: quadrant SW | Total neighboring resources: 42
+Coords: (4, 117) | Position: quadrant SW | Total neighboring resources: 40
+Coords: (10, 2) | Position: quadrant NW | Total neighboring resources: 40
+Coords: (15, 102) | Position: quadrant SW | Total neighboring resources: 40
+Coords: (16, 102) | Position: quadrant SW | Total neighboring resources: 40
+Coords: (37, 135) | Position: quadrant SW | Total neighboring resources: 40
+Coords: (38, 141) | Position: quadrant SW | Total neighboring resources: 40
+Coords: (40, 73) | Position: quadrant NW | Total neighboring resources: 40
+Coords: (42, 72) | Position: quadrant NW | Total neighboring resources: 40
+Coords: (54, 32) | Position: quadrant NW | Total neighboring resources: 40
+Coords: (54, 115) | Position: quadrant SW | Total neighboring resources: 40
+Coords: (58, 75) | Position: quadrant NW | Total neighboring resources: 41
+Coords: (64, 127) | Position: quadrant SW | Total neighboring resources: 40
+Coords: (67, 122) | Position: quadrant SW | Total neighboring resources: 41
+Coords: (68, 37) | Position: quadrant NW | Total neighboring resources: 40
+Coords: (82, 19) | Position: quadrant NE | Total neighboring resources: 40
+Coords: (82, 64) | Position: center | Total neighboring resources: 41
+Coords: (84, 89) | Position: center | Total neighboring resources: 40
+Coords: (102, 58) | Position: quadrant NE | Total neighboring resources: 40
+Coords: (109, 23) | Position: quadrant NE | Total neighboring resources: 40
+Coords: (109, 52) | Position: quadrant NE | Total neighboring resources: 40
+Coords: (130, 108) | Position: quadrant SE | Total neighboring resources: 41
+Coords: (138, 62) | Position: quadrant NE | Total neighboring resources: 40
+Coords: (143, 9) | Position: quadrant NE | Total neighboring resources: 40
+--- Tiles with 11 neighboring iron ---
+Coords: (9, 2) | Position: quadrant NW | Total neighboring resources: 41
+Coords: (9, 76) | Position: quadrant SW | Total neighboring resources: 40
+Coords: (23, 31) | Position: quadrant NW | Total neighboring resources: 40
+Coords: (27, 12) | Position: quadrant NW | Total neighboring resources: 41
+Coords: (27, 122) | Position: quadrant SW | Total neighboring resources: 40
+Coords: (31, 110) | Position: quadrant SW | Total neighboring resources: 40
+Coords: (33, 39) | Position: quadrant NW | Total neighboring resources: 40
+Coords: (49, 78) | Position: quadrant SW | Total neighboring resources: 40
+Coords: (68, 55) | Position: quadrant NW | Total neighboring resources: 41
+Coords: (69, 62) | Position: center | Total neighboring resources: 40
+Coords: (71, 95) | Position: quadrant SW | Total neighboring resources: 40
+Coords: (85, 78) | Position: center | Total neighboring resources: 40
+Coords: (87, 147) | Position: quadrant SE | Total neighboring resources: 40
+Coords: (94, 146) | Position: quadrant SE | Total neighboring resources: 40
+Coords: (95, 3) | Position: quadrant NE | Total neighboring resources: 40
+Coords: (98, 101) | Position: quadrant SE | Total neighboring resources: 41
+Coords: (101, 49) | Position: quadrant NE | Total neighboring resources: 40
+Coords: (101, 114) | Position: quadrant SE | Total neighboring resources: 40
+Coords: (108, 116) | Position: quadrant SE | Total neighboring resources: 40
+Coords: (109, 116) | Position: quadrant SE | Total neighboring resources: 40
+Coords: (109, 133) | Position: quadrant SE | Total neighboring resources: 41
+Coords: (121, 140) | Position: quadrant SE | Total neighboring resources: 40
+Coords: (128, 44) | Position: quadrant NE | Total neighboring resources: 40
+Coords: (133, 52) | Position: quadrant NE | Total neighboring resources: 41
+Coords: (136, 85) | Position: quadrant SE | Total neighboring resources: 40
+Coords: (142, 50) | Position: quadrant NE | Total neighboring resources: 40
+Coords: (142, 129) | Position: quadrant SE | Total neighboring resources: 40
+Coords: (143, 95) | Position: quadrant SE | Total neighboring resources: 40
+Coords: (145, 5) | Position: quadrant NE | Total neighboring resources: 40
+Coords: (145, 114) | Position: quadrant SE | Total neighboring resources: 40
+Coords: (145, 140) | Position: quadrant SE | Total neighboring resources: 41
+Coords: (148, 61) | Position: quadrant NE | Total neighboring resources: 40
+--- Tiles with 12 neighboring iron ---
+Coords: (1, 45) | Position: quadrant NW | Total neighboring resources: 41
+Coords: (13, 22) | Position: quadrant NW | Total neighboring resources: 40
+Coords: (15, 76) | Position: quadrant SW | Total neighboring resources: 40
+Coords: (20, 31) | Position: quadrant NW | Total neighboring resources: 40
+Coords: (21, 48) | Position: quadrant NW | Total neighboring resources: 41
+Coords: (28, 97) | Position: quadrant SW | Total neighboring resources: 40
+Coords: (29, 74) | Position: quadrant NW | Total neighboring resources: 40
+Coords: (30, 29) | Position: quadrant NW | Total neighboring resources: 40
+Coords: (32, 141) | Position: quadrant SW | Total neighboring resources: 40
+Coords: (45, 135) | Position: quadrant SW | Total neighboring resources: 40
+Coords: (57, 110) | Position: quadrant SW | Total neighboring resources: 40
+Coords: (59, 16) | Position: quadrant NW | Total neighboring resources: 40
+Coords: (65, 135) | Position: quadrant SW | Total neighboring resources: 40
+Coords: (69, 122) | Position: quadrant SW | Total neighboring resources: 40
+Coords: (70, 55) | Position: quadrant NW | Total neighboring resources: 40
+Coords: (74, 121) | Position: quadrant SW | Total neighboring resources: 40
+Coords: (78, 89) | Position: center | Total neighboring resources: 40
+Coords: (79, 6) | Position: quadrant NE | Total neighboring resources: 40
+Coords: (81, 11) | Position: quadrant NE | Total neighboring resources: 41
+Coords: (87, 77) | Position: center | Total neighboring resources: 41
+Coords: (88, 10) | Position: quadrant NE | Total neighboring resources: 40
+Coords: (88, 77) | Position: center | Total neighboring resources: 41
+Coords: (93, 37) | Position: quadrant NE | Total neighboring resources: 40
+Coords: (93, 95) | Position: quadrant SE | Total neighboring resources: 40
+Coords: (95, 125) | Position: quadrant SE | Total neighboring resources: 40
+Coords: (96, 3) | Position: quadrant NE | Total neighboring resources: 40
+Coords: (96, 135) | Position: quadrant SE | Total neighboring resources: 40
+Coords: (100, 82) | Position: quadrant SE | Total neighboring resources: 40
+Coords: (101, 43) | Position: quadrant NE | Total neighboring resources: 40
+Coords: (102, 56) | Position: quadrant NE | Total neighboring resources: 40
+Coords: (105, 52) | Position: quadrant NE | Total neighboring resources: 40
+Coords: (107, 82) | Position: quadrant SE | Total neighboring resources: 41
+Coords: (109, 92) | Position: quadrant SE | Total neighboring resources: 40
+Coords: (110, 18) | Position: quadrant NE | Total neighboring resources: 41
+Coords: (115, 37) | Position: quadrant NE | Total neighboring resources: 41
+Coords: (120, 18) | Position: quadrant NE | Total neighboring resources: 40
+Coords: (124, 79) | Position: quadrant SE | Total neighboring resources: 40
+Coords: (128, 59) | Position: quadrant NE | Total neighboring resources: 41
+Coords: (137, 83) | Position: quadrant SE | Total neighboring resources: 40
+Coords: (138, 5) | Position: quadrant NE | Total neighboring resources: 40
+Coords: (139, 4) | Position: quadrant NE | Total neighboring resources: 40
+Coords: (141, 1) | Position: quadrant NE | Total neighboring resources: 40
+Coords: (145, 135) | Position: quadrant SE | Total neighboring resources: 40
+--- Tiles with 13 neighboring iron ---
+Coords: (1, 88) | Position: quadrant SW | Total neighboring resources: 41
+Coords: (7, 2) | Position: quadrant NW | Total neighboring resources: 40
+Coords: (11, 12) | Position: quadrant NW | Total neighboring resources: 40
+Coords: (22, 89) | Position: quadrant SW | Total neighboring resources: 42
+Coords: (24, 68) | Position: quadrant NW | Total neighboring resources: 40
+Coords: (27, 9) | Position: quadrant NW | Total neighboring resources: 40
+Coords: (27, 10) | Position: quadrant NW | Total neighboring resources: 40
+Coords: (41, 101) | Position: quadrant SW | Total neighboring resources: 40
+Coords: (43, 13) | Position: quadrant NW | Total neighboring resources: 42
+Coords: (44, 13) | Position: quadrant NW | Total neighboring resources: 40
+Coords: (48, 31) | Position: quadrant NW | Total neighboring resources: 40
+Coords: (57, 39) | Position: quadrant NW | Total neighboring resources: 40
+Coords: (57, 77) | Position: quadrant SW | Total neighboring resources: 40
+Coords: (58, 48) | Position: quadrant NW | Total neighboring resources: 40
+Coords: (58, 108) | Position: quadrant SW | Total neighboring resources: 40
+Coords: (60, 30) | Position: quadrant NW | Total neighboring resources: 41
+Coords: (67, 86) | Position: center | Total neighboring resources: 41
+Coords: (72, 142) | Position: quadrant SW | Total neighboring resources: 41
+Coords: (76, 77) | Position: center | Total neighboring resources: 40
+Coords: (78, 67) | Position: center | Total neighboring resources: 40
+Coords: (78, 117) | Position: quadrant SE | Total neighboring resources: 41
+Coords: (79, 144) | Position: quadrant SE | Total neighboring resources: 41
+Coords: (82, 92) | Position: center | Total neighboring resources: 41
+Coords: (83, 12) | Position: quadrant NE | Total neighboring resources: 40
+Coords: (83, 48) | Position: quadrant NE | Total neighboring resources: 40
+Coords: (85, 38) | Position: quadrant NE | Total neighboring resources: 41
+Coords: (100, 58) | Position: quadrant NE | Total neighboring resources: 41
+Coords: (110, 89) | Position: quadrant SE | Total neighboring resources: 41
+Coords: (115, 148) | Position: quadrant SE | Total neighboring resources: 41
+Coords: (130, 15) | Position: quadrant NE | Total neighboring resources: 40
+Coords: (135, 99) | Position: quadrant SE | Total neighboring resources: 40
+Coords: (139, 3) | Position: quadrant NE | Total neighboring resources: 40
+Coords: (139, 15) | Position: quadrant NE | Total neighboring resources: 40
+Coords: (141, 51) | Position: quadrant NE | Total neighboring resources: 40
+--- Tiles with 14 neighboring iron ---
+Coords: (3, 62) | Position: quadrant NW | Total neighboring resources: 40
+Coords: (3, 67) | Position: quadrant NW | Total neighboring resources: 41
+Coords: (4, 110) | Position: quadrant SW | Total neighboring resources: 41
+Coords: (8, 133) | Position: quadrant SW | Total neighboring resources: 40
+Coords: (10, 134) | Position: quadrant SW | Total neighboring resources: 41
+Coords: (16, 118) | Position: quadrant SW | Total neighboring resources: 43
+Coords: (17, 140) | Position: quadrant SW | Total neighboring resources: 40
+Coords: (20, 2) | Position: quadrant NW | Total neighboring resources: 40
+Coords: (25, 15) | Position: quadrant NW | Total neighboring resources: 40
+Coords: (29, 110) | Position: quadrant SW | Total neighboring resources: 41
+Coords: (35, 21) | Position: quadrant NW | Total neighboring resources: 40
+Coords: (36, 52) | Position: quadrant NW | Total neighboring resources: 41
+Coords: (37, 33) | Position: quadrant NW | Total neighboring resources: 41
+Coords: (40, 36) | Position: quadrant NW | Total neighboring resources: 40
+Coords: (41, 103) | Position: quadrant SW | Total neighboring resources: 41
+Coords: (43, 76) | Position: quadrant SW | Total neighboring resources: 41
+Coords: (43, 92) | Position: quadrant SW | Total neighboring resources: 41
+Coords: (44, 4) | Position: quadrant NW | Total neighboring resources: 40
+Coords: (44, 6) | Position: quadrant NW | Total neighboring resources: 40
+Coords: (45, 11) | Position: quadrant NW | Total neighboring resources: 40
+Coords: (45, 13) | Position: quadrant NW | Total neighboring resources: 40
+Coords: (47, 121) | Position: quadrant SW | Total neighboring resources: 41
+Coords: (48, 103) | Position: quadrant SW | Total neighboring resources: 40
+Coords: (49, 142) | Position: quadrant SW | Total neighboring resources: 41
+Coords: (56, 39) | Position: quadrant NW | Total neighboring resources: 40
+Coords: (59, 1) | Position: quadrant NW | Total neighboring resources: 40
+Coords: (59, 77) | Position: quadrant SW | Total neighboring resources: 40
+Coords: (61, 48) | Position: quadrant NW | Total neighboring resources: 41
+Coords: (64, 94) | Position: quadrant SW | Total neighboring resources: 41
+Coords: (64, 147) | Position: quadrant SW | Total neighboring resources: 41
+Coords: (70, 25) | Position: quadrant NW | Total neighboring resources: 41
+Coords: (71, 15) | Position: quadrant NW | Total neighboring resources: 40
+Coords: (71, 142) | Position: quadrant SW | Total neighboring resources: 42
+Coords: (75, 74) | Position: center | Total neighboring resources: 40
+Coords: (76, 122) | Position: quadrant SE | Total neighboring resources: 43
+Coords: (77, 144) | Position: quadrant SE | Total neighboring resources: 41
+Coords: (78, 146) | Position: quadrant SE | Total neighboring resources: 40
+Coords: (79, 72) | Position: center | Total neighboring resources: 40
+Coords: (79, 87) | Position: center | Total neighboring resources: 40
+Coords: (84, 69) | Position: center | Total neighboring resources: 41
+Coords: (88, 59) | Position: quadrant NE | Total neighboring resources: 40
+Coords: (89, 4) | Position: quadrant NE | Total neighboring resources: 40
+Coords: (91, 123) | Position: quadrant SE | Total neighboring resources: 40
+Coords: (99, 54) | Position: quadrant NE | Total neighboring resources: 41
+Coords: (100, 59) | Position: quadrant NE | Total neighboring resources: 41
+Coords: (104, 75) | Position: quadrant NE | Total neighboring resources: 40
+Coords: (107, 52) | Position: quadrant NE | Total neighboring resources: 40
+Coords: (107, 81) | Position: quadrant SE | Total neighboring resources: 41
+Coords: (107, 84) | Position: quadrant SE | Total neighboring resources: 40
+Coords: (115, 29) | Position: quadrant NE | Total neighboring resources: 40
+Coords: (115, 86) | Position: quadrant SE | Total neighboring resources: 40
+Coords: (116, 23) | Position: quadrant NE | Total neighboring resources: 40
+Coords: (117, 36) | Position: quadrant NE | Total neighboring resources: 40
+Coords: (124, 54) | Position: quadrant NE | Total neighboring resources: 41
+Coords: (138, 3) | Position: quadrant NE | Total neighboring resources: 40
+Coords: (148, 18) | Position: quadrant NE | Total neighboring resources: 40
+--- Tiles with 15 neighboring iron ---
+Coords: (1, 67) | Position: quadrant NW | Total neighboring resources: 41
+Coords: (3, 16) | Position: quadrant NW | Total neighboring resources: 41
+Coords: (17, 73) | Position: quadrant NW | Total neighboring resources: 40
+Coords: (20, 21) | Position: quadrant NW | Total neighboring resources: 41
+Coords: (32, 13) | Position: quadrant NW | Total neighboring resources: 40
+Coords: (32, 61) | Position: quadrant NW | Total neighboring resources: 41
+Coords: (35, 134) | Position: quadrant SW | Total neighboring resources: 40
+Coords: (36, 142) | Position: quadrant SW | Total neighboring resources: 41
+Coords: (41, 71) | Position: quadrant NW | Total neighboring resources: 41
+Coords: (42, 92) | Position: quadrant SW | Total neighboring resources: 40
+Coords: (46, 33) | Position: quadrant NW | Total neighboring resources: 40
+Coords: (49, 134) | Position: quadrant SW | Total neighboring resources: 40
+Coords: (49, 136) | Position: quadrant SW | Total neighboring resources: 42
+Coords: (54, 86) | Position: quadrant SW | Total neighboring resources: 40
+Coords: (59, 18) | Position: quadrant NW | Total neighboring resources: 40
+Coords: (77, 5) | Position: quadrant NE | Total neighboring resources: 41
+Coords: (78, 129) | Position: quadrant SE | Total neighboring resources: 40
+Coords: (80, 127) | Position: quadrant SE | Total neighboring resources: 42
+Coords: (82, 90) | Position: center | Total neighboring resources: 41
+Coords: (88, 9) | Position: quadrant NE | Total neighboring resources: 41
+Coords: (98, 120) | Position: quadrant SE | Total neighboring resources: 41
+Coords: (100, 56) | Position: quadrant NE | Total neighboring resources: 42
+Coords: (104, 42) | Position: quadrant NE | Total neighboring resources: 41
+Coords: (109, 120) | Position: quadrant SE | Total neighboring resources: 40
+Coords: (110, 123) | Position: quadrant SE | Total neighboring resources: 41
+Coords: (112, 57) | Position: quadrant NE | Total neighboring resources: 40
+Coords: (113, 7) | Position: quadrant NE | Total neighboring resources: 40
+Coords: (114, 109) | Position: quadrant SE | Total neighboring resources: 41
+Coords: (122, 54) | Position: quadrant NE | Total neighboring resources: 40
+Coords: (124, 58) | Position: quadrant NE | Total neighboring resources: 40
+Coords: (125, 77) | Position: quadrant SE | Total neighboring resources: 40
+Coords: (127, 89) | Position: quadrant SE | Total neighboring resources: 40
+Coords: (128, 121) | Position: quadrant SE | Total neighboring resources: 40
+Coords: (130, 19) | Position: quadrant NE | Total neighboring resources: 41
+Coords: (136, 144) | Position: quadrant SE | Total neighboring resources: 40
+Coords: (147, 13) | Position: quadrant NE | Total neighboring resources: 41
+--- Tiles with 16 neighboring iron ---
+Coords: (3, 111) | Position: quadrant SW | Total neighboring resources: 41
+Coords: (8, 39) | Position: quadrant NW | Total neighboring resources: 43
+Coords: (10, 39) | Position: quadrant NW | Total neighboring resources: 43
+Coords: (30, 109) | Position: quadrant SW | Total neighboring resources: 40
+Coords: (31, 46) | Position: quadrant NW | Total neighboring resources: 40
+Coords: (35, 19) | Position: quadrant NW | Total neighboring resources: 41
+Coords: (39, 105) | Position: quadrant SW | Total neighboring resources: 41
+Coords: (41, 109) | Position: quadrant SW | Total neighboring resources: 41
+Coords: (42, 111) | Position: quadrant SW | Total neighboring resources: 40
+Coords: (46, 102) | Position: quadrant SW | Total neighboring resources: 41
+Coords: (47, 135) | Position: quadrant SW | Total neighboring resources: 40
+Coords: (50, 34) | Position: quadrant NW | Total neighboring resources: 42
+Coords: (56, 1) | Position: quadrant NW | Total neighboring resources: 42
+Coords: (56, 46) | Position: quadrant NW | Total neighboring resources: 40
+Coords: (57, 79) | Position: quadrant SW | Total neighboring resources: 41
+Coords: (76, 118) | Position: quadrant SE | Total neighboring resources: 40
+Coords: (78, 144) | Position: quadrant SE | Total neighboring resources: 41
+Coords: (83, 94) | Position: quadrant SE | Total neighboring resources: 40
+Coords: (84, 130) | Position: quadrant SE | Total neighboring resources: 41
+Coords: (91, 56) | Position: quadrant NE | Total neighboring resources: 40
+Coords: (97, 75) | Position: quadrant NE | Total neighboring resources: 41
+Coords: (101, 54) | Position: quadrant NE | Total neighboring resources: 42
+Coords: (107, 80) | Position: quadrant SE | Total neighboring resources: 40
+Coords: (108, 17) | Position: quadrant NE | Total neighboring resources: 40
+Coords: (115, 31) | Position: quadrant NE | Total neighboring resources: 41
+Coords: (125, 35) | Position: quadrant NE | Total neighboring resources: 41
+Coords: (129, 17) | Position: quadrant NE | Total neighboring resources: 40
+Coords: (129, 106) | Position: quadrant SE | Total neighboring resources: 40
+Coords: (129, 108) | Position: quadrant SE | Total neighboring resources: 42
+Coords: (130, 17) | Position: quadrant NE | Total neighboring resources: 41
+--- Tiles with 17 neighboring iron ---
+Coords: (2, 122) | Position: quadrant SW | Total neighboring resources: 40
+Coords: (11, 2) | Position: quadrant NW | Total neighboring resources: 41
+Coords: (16, 136) | Position: quadrant SW | Total neighboring resources: 41
+Coords: (41, 77) | Position: quadrant SW | Total neighboring resources: 40
+Coords: (42, 94) | Position: quadrant SW | Total neighboring resources: 41
+Coords: (48, 8) | Position: quadrant NW | Total neighboring resources: 41
+Coords: (52, 32) | Position: quadrant NW | Total neighboring resources: 43
+Coords: (58, 77) | Position: quadrant SW | Total neighboring resources: 42
+Coords: (75, 75) | Position: center | Total neighboring resources: 42
+Coords: (76, 116) | Position: quadrant SE | Total neighboring resources: 40
+Coords: (80, 89) | Position: center | Total neighboring resources: 41
+Coords: (86, 36) | Position: quadrant NE | Total neighboring resources: 41
+Coords: (87, 139) | Position: quadrant SE | Total neighboring resources: 40
+Coords: (90, 9) | Position: quadrant NE | Total neighboring resources: 42
+Coords: (105, 83) | Position: quadrant SE | Total neighboring resources: 40
+Coords: (109, 121) | Position: quadrant SE | Total neighboring resources: 42
+Coords: (116, 59) | Position: quadrant NE | Total neighboring resources: 41
+Coords: (126, 36) | Position: quadrant NE | Total neighboring resources: 40
+Coords: (129, 119) | Position: quadrant SE | Total neighboring resources: 41
+Coords: (145, 144) | Position: quadrant SE | Total neighboring resources: 41
+--- Tiles with 18 neighboring iron ---
+Coords: (1, 99) | Position: quadrant SW | Total neighboring resources: 40
+Coords: (5, 17) | Position: quadrant NW | Total neighboring resources: 41
+Coords: (60, 1) | Position: quadrant NW | Total neighboring resources: 41
+Coords: (61, 1) | Position: quadrant NW | Total neighboring resources: 42
+Coords: (73, 32) | Position: quadrant NW | Total neighboring resources: 40
+Coords: (75, 77) | Position: center | Total neighboring resources: 43
+Coords: (78, 131) | Position: quadrant SE | Total neighboring resources: 42
+Coords: (79, 129) | Position: quadrant SE | Total neighboring resources: 42
+Coords: (81, 87) | Position: center | Total neighboring resources: 43
+Coords: (82, 127) | Position: quadrant SE | Total neighboring resources: 43
+Coords: (86, 37) | Position: quadrant NE | Total neighboring resources: 40
+Coords: (88, 7) | Position: quadrant NE | Total neighboring resources: 40
+Coords: (88, 8) | Position: quadrant NE | Total neighboring resources: 40
+Coords: (99, 22) | Position: quadrant NE | Total neighboring resources: 41
+Coords: (102, 36) | Position: quadrant NE | Total neighboring resources: 40
+Coords: (104, 50) | Position: quadrant NE | Total neighboring resources: 41
+Coords: (123, 56) | Position: quadrant NE | Total neighboring resources: 42
+Coords: (124, 56) | Position: quadrant NE | Total neighboring resources: 42
+Coords: (129, 19) | Position: quadrant NE | Total neighboring resources: 41
+Coords: (129, 121) | Position: quadrant SE | Total neighboring resources: 41
+Coords: (137, 148) | Position: quadrant SE | Total neighboring resources: 41
+Coords: (147, 135) | Position: quadrant SE | Total neighboring resources: 40
+--- Tiles with 19 neighboring iron ---
+Coords: (8, 31) | Position: quadrant NW | Total neighboring resources: 41
+Coords: (16, 142) | Position: quadrant SW | Total neighboring resources: 42
+Coords: (21, 137) | Position: quadrant SW | Total neighboring resources: 40
+Coords: (72, 32) | Position: quadrant NW | Total neighboring resources: 41
+Coords: (76, 120) | Position: quadrant SE | Total neighboring resources: 42
+Coords: (97, 21) | Position: quadrant NE | Total neighboring resources: 41
+Coords: (114, 59) | Position: quadrant NE | Total neighboring resources: 41
+Coords: (115, 59) | Position: quadrant NE | Total neighboring resources: 40
+Coords: (123, 78) | Position: quadrant SE | Total neighboring resources: 42
+Coords: (137, 3) | Position: quadrant NE | Total neighboring resources: 41
+--- Tiles with 20 neighboring iron ---
+--- Tiles with 21 neighboring iron ---
+Coords: (140, 6) | Position: quadrant NE | Total neighboring resources: 45
+--- Tiles with 22 neighboring iron ---
+Coords: (39, 107) | Position: quadrant SW | Total neighboring resources: 43
+Coords: (51, 34) | Position: quadrant NW | Total neighboring resources: 41
+Coords: (98, 135) | Position: quadrant SE | Total neighboring resources: 42
+--- Tiles with 23 neighboring iron ---
+Coords: (75, 48) | Position: quadrant NW | Total neighboring resources: 45
+--- Tiles with 24 neighboring iron ---
+--- Tiles with 25 neighboring iron ---
+--- Tiles with 26 neighboring iron ---
+--- Tiles with 27 neighboring iron ---
+--- Tiles with 28 neighboring iron ---
+--- Tiles with 29 neighboring iron ---
+--- Tiles with 30 neighboring iron ---
+--- Tiles with 31 neighboring iron ---
+--- Tiles with 40 neighboring total resources ---
+Coords: (1, 85) | Position: quadrant SW
+Coords: (1, 99) | Position: quadrant SW
+Coords: (2, 122) | Position: quadrant SW
+Coords: (3, 62) | Position: quadrant NW
+Coords: (4, 117) | Position: quadrant SW
+Coords: (7, 2) | Position: quadrant NW
+Coords: (8, 133) | Position: quadrant SW
+Coords: (9, 76) | Position: quadrant SW
+Coords: (10, 2) | Position: quadrant NW
+Coords: (11, 12) | Position: quadrant NW
+Coords: (13, 22) | Position: quadrant NW
+Coords: (15, 74) | Position: quadrant NW
+Coords: (15, 76) | Position: quadrant SW
+Coords: (15, 102) | Position: quadrant SW
+Coords: (15, 119) | Position: quadrant SW
+Coords: (16, 102) | Position: quadrant SW
+Coords: (17, 73) | Position: quadrant NW
+Coords: (17, 140) | Position: quadrant SW
+Coords: (20, 2) | Position: quadrant NW
+Coords: (20, 31) | Position: quadrant NW
+Coords: (21, 137) | Position: quadrant SW
+Coords: (23, 31) | Position: quadrant NW
+Coords: (24, 68) | Position: quadrant NW
+Coords: (25, 15) | Position: quadrant NW
+Coords: (26, 14) | Position: quadrant NW
+Coords: (27, 9) | Position: quadrant NW
+Coords: (27, 10) | Position: quadrant NW
+Coords: (27, 122) | Position: quadrant SW
+Coords: (28, 97) | Position: quadrant SW
+Coords: (29, 74) | Position: quadrant NW
+Coords: (30, 29) | Position: quadrant NW
+Coords: (30, 109) | Position: quadrant SW
+Coords: (31, 46) | Position: quadrant NW
+Coords: (31, 110) | Position: quadrant SW
+Coords: (32, 13) | Position: quadrant NW
+Coords: (32, 141) | Position: quadrant SW
+Coords: (33, 39) | Position: quadrant NW
+Coords: (35, 21) | Position: quadrant NW
+Coords: (35, 134) | Position: quadrant SW
+Coords: (37, 135) | Position: quadrant SW
+Coords: (38, 141) | Position: quadrant SW
+Coords: (40, 36) | Position: quadrant NW
+Coords: (40, 73) | Position: quadrant NW
+Coords: (41, 77) | Position: quadrant SW
+Coords: (41, 101) | Position: quadrant SW
+Coords: (42, 72) | Position: quadrant NW
+Coords: (42, 92) | Position: quadrant SW
+Coords: (42, 111) | Position: quadrant SW
+Coords: (44, 4) | Position: quadrant NW
+Coords: (44, 6) | Position: quadrant NW
+Coords: (44, 13) | Position: quadrant NW
+Coords: (45, 11) | Position: quadrant NW
+Coords: (45, 13) | Position: quadrant NW
+Coords: (45, 119) | Position: quadrant SW
+Coords: (45, 135) | Position: quadrant SW
+Coords: (46, 33) | Position: quadrant NW
+Coords: (47, 135) | Position: quadrant SW
+Coords: (48, 29) | Position: quadrant NW
+Coords: (48, 31) | Position: quadrant NW
+Coords: (48, 103) | Position: quadrant SW
+Coords: (49, 78) | Position: quadrant SW
+Coords: (49, 134) | Position: quadrant SW
+Coords: (50, 29) | Position: quadrant NW
+Coords: (51, 45) | Position: quadrant NW
+Coords: (54, 32) | Position: quadrant NW
+Coords: (54, 86) | Position: quadrant SW
+Coords: (54, 115) | Position: quadrant SW
+Coords: (55, 68) | Position: quadrant NW
+Coords: (56, 39) | Position: quadrant NW
+Coords: (56, 46) | Position: quadrant NW
+Coords: (57, 39) | Position: quadrant NW
+Coords: (57, 77) | Position: quadrant SW
+Coords: (57, 110) | Position: quadrant SW
+Coords: (58, 48) | Position: quadrant NW
+Coords: (58, 108) | Position: quadrant SW
+Coords: (59, 1) | Position: quadrant NW
+Coords: (59, 16) | Position: quadrant NW
+Coords: (59, 18) | Position: quadrant NW
+Coords: (59, 41) | Position: quadrant NW
+Coords: (59, 77) | Position: quadrant SW
+Coords: (59, 149) | Position: quadrant SW
+Coords: (60, 81) | Position: center
+Coords: (64, 105) | Position: quadrant SW
+Coords: (64, 127) | Position: quadrant SW
+Coords: (65, 135) | Position: quadrant SW
+Coords: (68, 37) | Position: quadrant NW
+Coords: (69, 62) | Position: center
+Coords: (69, 122) | Position: quadrant SW
+Coords: (70, 55) | Position: quadrant NW
+Coords: (71, 15) | Position: quadrant NW
+Coords: (71, 95) | Position: quadrant SW
+Coords: (73, 32) | Position: quadrant NW
+Coords: (73, 139) | Position: quadrant SW
+Coords: (74, 121) | Position: quadrant SW
+Coords: (75, 74) | Position: center
+Coords: (76, 77) | Position: center
+Coords: (76, 116) | Position: quadrant SE
+Coords: (76, 118) | Position: quadrant SE
+Coords: (78, 58) | Position: quadrant NE
+Coords: (78, 67) | Position: center
+Coords: (78, 89) | Position: center
+Coords: (78, 129) | Position: quadrant SE
+Coords: (78, 146) | Position: quadrant SE
+Coords: (79, 6) | Position: quadrant NE
+Coords: (79, 72) | Position: center
+Coords: (79, 87) | Position: center
+Coords: (82, 19) | Position: quadrant NE
+Coords: (83, 12) | Position: quadrant NE
+Coords: (83, 48) | Position: quadrant NE
+Coords: (83, 94) | Position: quadrant SE
+Coords: (84, 12) | Position: quadrant NE
+Coords: (84, 89) | Position: center
+Coords: (84, 149) | Position: quadrant SE
+Coords: (85, 78) | Position: center
+Coords: (86, 37) | Position: quadrant NE
+Coords: (87, 139) | Position: quadrant SE
+Coords: (87, 147) | Position: quadrant SE
+Coords: (88, 7) | Position: quadrant NE
+Coords: (88, 8) | Position: quadrant NE
+Coords: (88, 10) | Position: quadrant NE
+Coords: (88, 59) | Position: quadrant NE
+Coords: (89, 4) | Position: quadrant NE
+Coords: (89, 55) | Position: quadrant NE
+Coords: (91, 56) | Position: quadrant NE
+Coords: (91, 123) | Position: quadrant SE
+Coords: (93, 37) | Position: quadrant NE
+Coords: (93, 95) | Position: quadrant SE
+Coords: (94, 57) | Position: quadrant NE
+Coords: (94, 146) | Position: quadrant SE
+Coords: (95, 3) | Position: quadrant NE
+Coords: (95, 125) | Position: quadrant SE
+Coords: (96, 3) | Position: quadrant NE
+Coords: (96, 120) | Position: quadrant SE
+Coords: (96, 135) | Position: quadrant SE
+Coords: (100, 82) | Position: quadrant SE
+Coords: (101, 43) | Position: quadrant NE
+Coords: (101, 49) | Position: quadrant NE
+Coords: (101, 114) | Position: quadrant SE
+Coords: (102, 36) | Position: quadrant NE
+Coords: (102, 56) | Position: quadrant NE
+Coords: (102, 58) | Position: quadrant NE
+Coords: (102, 82) | Position: quadrant SE
+Coords: (104, 75) | Position: quadrant NE
+Coords: (105, 52) | Position: quadrant NE
+Coords: (105, 83) | Position: quadrant SE
+Coords: (107, 52) | Position: quadrant NE
+Coords: (107, 80) | Position: quadrant SE
+Coords: (107, 84) | Position: quadrant SE
+Coords: (108, 17) | Position: quadrant NE
+Coords: (108, 116) | Position: quadrant SE
+Coords: (108, 133) | Position: quadrant SE
+Coords: (109, 23) | Position: quadrant NE
+Coords: (109, 52) | Position: quadrant NE
+Coords: (109, 92) | Position: quadrant SE
+Coords: (109, 116) | Position: quadrant SE
+Coords: (109, 120) | Position: quadrant SE
+Coords: (112, 57) | Position: quadrant NE
+Coords: (113, 7) | Position: quadrant NE
+Coords: (115, 29) | Position: quadrant NE
+Coords: (115, 59) | Position: quadrant NE
+Coords: (115, 86) | Position: quadrant SE
+Coords: (116, 23) | Position: quadrant NE
+Coords: (117, 36) | Position: quadrant NE
+Coords: (117, 144) | Position: quadrant SE
+Coords: (118, 129) | Position: quadrant SE
+Coords: (119, 129) | Position: quadrant SE
+Coords: (120, 18) | Position: quadrant NE
+Coords: (121, 140) | Position: quadrant SE
+Coords: (122, 54) | Position: quadrant NE
+Coords: (124, 58) | Position: quadrant NE
+Coords: (124, 79) | Position: quadrant SE
+Coords: (125, 77) | Position: quadrant SE
+Coords: (126, 36) | Position: quadrant NE
+Coords: (127, 89) | Position: quadrant SE
+Coords: (128, 44) | Position: quadrant NE
+Coords: (128, 121) | Position: quadrant SE
+Coords: (129, 17) | Position: quadrant NE
+Coords: (129, 106) | Position: quadrant SE
+Coords: (130, 15) | Position: quadrant NE
+Coords: (135, 99) | Position: quadrant SE
+Coords: (136, 85) | Position: quadrant SE
+Coords: (136, 144) | Position: quadrant SE
+Coords: (137, 83) | Position: quadrant SE
+Coords: (138, 3) | Position: quadrant NE
+Coords: (138, 5) | Position: quadrant NE
+Coords: (138, 62) | Position: quadrant NE
+Coords: (139, 3) | Position: quadrant NE
+Coords: (139, 4) | Position: quadrant NE
+Coords: (139, 15) | Position: quadrant NE
+Coords: (141, 1) | Position: quadrant NE
+Coords: (141, 51) | Position: quadrant NE
+Coords: (141, 95) | Position: quadrant SE
+Coords: (142, 50) | Position: quadrant NE
+Coords: (142, 129) | Position: quadrant SE
+Coords: (143, 9) | Position: quadrant NE
+Coords: (143, 95) | Position: quadrant SE
+Coords: (143, 96) | Position: quadrant SE
+Coords: (145, 5) | Position: quadrant NE
+Coords: (145, 114) | Position: quadrant SE
+Coords: (145, 135) | Position: quadrant SE
+Coords: (147, 135) | Position: quadrant SE
+Coords: (148, 18) | Position: quadrant NE
+Coords: (148, 61) | Position: quadrant NE
+--- Tiles with 41 neighboring total resources ---
+Coords: (1, 45) | Position: quadrant NW
+Coords: (1, 67) | Position: quadrant NW
+Coords: (1, 88) | Position: quadrant SW
+Coords: (3, 16) | Position: quadrant NW
+Coords: (3, 67) | Position: quadrant NW
+Coords: (3, 111) | Position: quadrant SW
+Coords: (4, 110) | Position: quadrant SW
+Coords: (5, 17) | Position: quadrant NW
+Coords: (8, 31) | Position: quadrant NW
+Coords: (9, 2) | Position: quadrant NW
+Coords: (10, 134) | Position: quadrant SW
+Coords: (11, 2) | Position: quadrant NW
+Coords: (16, 136) | Position: quadrant SW
+Coords: (20, 21) | Position: quadrant NW
+Coords: (21, 48) | Position: quadrant NW
+Coords: (27, 12) | Position: quadrant NW
+Coords: (29, 110) | Position: quadrant SW
+Coords: (32, 61) | Position: quadrant NW
+Coords: (35, 19) | Position: quadrant NW
+Coords: (36, 52) | Position: quadrant NW
+Coords: (36, 142) | Position: quadrant SW
+Coords: (37, 33) | Position: quadrant NW
+Coords: (39, 105) | Position: quadrant SW
+Coords: (41, 71) | Position: quadrant NW
+Coords: (41, 103) | Position: quadrant SW
+Coords: (41, 109) | Position: quadrant SW
+Coords: (42, 94) | Position: quadrant SW
+Coords: (43, 76) | Position: quadrant SW
+Coords: (43, 92) | Position: quadrant SW
+Coords: (45, 127) | Position: quadrant SW
+Coords: (46, 102) | Position: quadrant SW
+Coords: (47, 121) | Position: quadrant SW
+Coords: (48, 8) | Position: quadrant NW
+Coords: (49, 142) | Position: quadrant SW
+Coords: (51, 34) | Position: quadrant NW
+Coords: (57, 79) | Position: quadrant SW
+Coords: (58, 75) | Position: quadrant NW
+Coords: (60, 1) | Position: quadrant NW
+Coords: (60, 30) | Position: quadrant NW
+Coords: (61, 48) | Position: quadrant NW
+Coords: (64, 94) | Position: quadrant SW
+Coords: (64, 147) | Position: quadrant SW
+Coords: (67, 86) | Position: center
+Coords: (67, 122) | Position: quadrant SW
+Coords: (68, 55) | Position: quadrant NW
+Coords: (70, 25) | Position: quadrant NW
+Coords: (72, 32) | Position: quadrant NW
+Coords: (72, 142) | Position: quadrant SW
+Coords: (75, 38) | Position: quadrant NW
+Coords: (77, 5) | Position: quadrant NE
+Coords: (77, 144) | Position: quadrant SE
+Coords: (78, 117) | Position: quadrant SE
+Coords: (78, 144) | Position: quadrant SE
+Coords: (79, 144) | Position: quadrant SE
+Coords: (80, 89) | Position: center
+Coords: (81, 11) | Position: quadrant NE
+Coords: (82, 20) | Position: quadrant NE
+Coords: (82, 64) | Position: center
+Coords: (82, 90) | Position: center
+Coords: (82, 92) | Position: center
+Coords: (84, 69) | Position: center
+Coords: (84, 130) | Position: quadrant SE
+Coords: (85, 38) | Position: quadrant NE
+Coords: (86, 36) | Position: quadrant NE
+Coords: (87, 77) | Position: center
+Coords: (88, 9) | Position: quadrant NE
+Coords: (88, 77) | Position: center
+Coords: (97, 21) | Position: quadrant NE
+Coords: (97, 75) | Position: quadrant NE
+Coords: (98, 101) | Position: quadrant SE
+Coords: (98, 120) | Position: quadrant SE
+Coords: (99, 22) | Position: quadrant NE
+Coords: (99, 54) | Position: quadrant NE
+Coords: (100, 58) | Position: quadrant NE
+Coords: (100, 59) | Position: quadrant NE
+Coords: (104, 42) | Position: quadrant NE
+Coords: (104, 50) | Position: quadrant NE
+Coords: (107, 81) | Position: quadrant SE
+Coords: (107, 82) | Position: quadrant SE
+Coords: (109, 133) | Position: quadrant SE
+Coords: (110, 18) | Position: quadrant NE
+Coords: (110, 89) | Position: quadrant SE
+Coords: (110, 123) | Position: quadrant SE
+Coords: (114, 59) | Position: quadrant NE
+Coords: (114, 109) | Position: quadrant SE
+Coords: (115, 31) | Position: quadrant NE
+Coords: (115, 37) | Position: quadrant NE
+Coords: (115, 103) | Position: quadrant SE
+Coords: (115, 148) | Position: quadrant SE
+Coords: (116, 59) | Position: quadrant NE
+Coords: (124, 54) | Position: quadrant NE
+Coords: (125, 35) | Position: quadrant NE
+Coords: (128, 59) | Position: quadrant NE
+Coords: (129, 19) | Position: quadrant NE
+Coords: (129, 119) | Position: quadrant SE
+Coords: (129, 121) | Position: quadrant SE
+Coords: (130, 17) | Position: quadrant NE
+Coords: (130, 19) | Position: quadrant NE
+Coords: (130, 108) | Position: quadrant SE
+Coords: (131, 46) | Position: quadrant NE
+Coords: (133, 52) | Position: quadrant NE
+Coords: (137, 3) | Position: quadrant NE
+Coords: (137, 148) | Position: quadrant SE
+Coords: (145, 140) | Position: quadrant SE
+Coords: (145, 144) | Position: quadrant SE
+Coords: (147, 13) | Position: quadrant NE
+--- Tiles with 42 neighboring total resources ---
+Coords: (1, 87) | Position: quadrant SW
+Coords: (16, 142) | Position: quadrant SW
+Coords: (22, 89) | Position: quadrant SW
+Coords: (43, 13) | Position: quadrant NW
+Coords: (49, 136) | Position: quadrant SW
+Coords: (50, 34) | Position: quadrant NW
+Coords: (56, 1) | Position: quadrant NW
+Coords: (58, 77) | Position: quadrant SW
+Coords: (61, 1) | Position: quadrant NW
+Coords: (71, 142) | Position: quadrant SW
+Coords: (75, 75) | Position: center
+Coords: (76, 120) | Position: quadrant SE
+Coords: (78, 131) | Position: quadrant SE
+Coords: (79, 129) | Position: quadrant SE
+Coords: (80, 127) | Position: quadrant SE
+Coords: (90, 9) | Position: quadrant NE
+Coords: (98, 135) | Position: quadrant SE
+Coords: (100, 56) | Position: quadrant NE
+Coords: (101, 54) | Position: quadrant NE
+Coords: (109, 121) | Position: quadrant SE
+Coords: (123, 56) | Position: quadrant NE
+Coords: (123, 78) | Position: quadrant SE
+Coords: (124, 56) | Position: quadrant NE
+Coords: (129, 108) | Position: quadrant SE
+--- Tiles with 43 neighboring total resources ---
+Coords: (8, 39) | Position: quadrant NW
+Coords: (10, 39) | Position: quadrant NW
+Coords: (16, 118) | Position: quadrant SW
+Coords: (39, 107) | Position: quadrant SW
+Coords: (52, 32) | Position: quadrant NW
+Coords: (75, 77) | Position: center
+Coords: (76, 122) | Position: quadrant SE
+Coords: (81, 87) | Position: center
+Coords: (82, 127) | Position: quadrant SE
+--- Tiles with 44 neighboring total resources ---
+--- Tiles with 45 neighboring total resources ---
+Coords: (75, 48) | Position: quadrant NW
+Coords: (140, 6) | Position: quadrant NE
+--- Tiles with 46 neighboring total resources ---
+--- Tiles with 47 neighboring total resources ---
+--- Tiles with 48 neighboring total resources ---

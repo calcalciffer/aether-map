@@ -1,0 +1,78 @@
+--- Tiles with 4 neighboring hills ---
+Coords: (1, 21) | Position: quadrant NW
+Coords: (1, 50) | Position: quadrant NW
+Coords: (1, 63) | Position: quadrant NW
+Coords: (1, 85) | Position: quadrant SW
+Coords: (4, 127) | Position: quadrant SW
+Coords: (7, 78) | Position: quadrant SW
+Coords: (15, 39) | Position: quadrant NW
+Coords: (17, 3) | Position: quadrant NW
+Coords: (24, 98) | Position: quadrant SW
+Coords: (24, 147) | Position: quadrant SW
+Coords: (26, 75) | Position: quadrant NW
+Coords: (30, 15) | Position: quadrant NW
+Coords: (33, 32) | Position: quadrant NW
+Coords: (34, 30) | Position: quadrant NW
+Coords: (34, 32) | Position: quadrant NW
+Coords: (37, 15) | Position: quadrant NW
+Coords: (45, 129) | Position: quadrant SW
+Coords: (46, 129) | Position: quadrant SW
+Coords: (52, 120) | Position: quadrant SW
+Coords: (59, 109) | Position: quadrant SW
+Coords: (59, 110) | Position: quadrant SW
+Coords: (60, 30) | Position: quadrant NW
+Coords: (61, 69) | Position: center
+Coords: (70, 27) | Position: quadrant NW
+Coords: (73, 80) | Position: center
+Coords: (74, 82) | Position: center
+Coords: (78, 123) | Position: quadrant SE
+Coords: (79, 125) | Position: quadrant SE
+Coords: (83, 74) | Position: center
+Coords: (84, 73) | Position: center
+Coords: (87, 101) | Position: quadrant SE
+Coords: (87, 102) | Position: quadrant SE
+Coords: (87, 136) | Position: quadrant SE
+Coords: (88, 66) | Position: center
+Coords: (89, 64) | Position: center
+Coords: (89, 65) | Position: center
+Coords: (90, 134) | Position: quadrant SE
+Coords: (92, 30) | Position: quadrant NE
+Coords: (93, 14) | Position: quadrant NE
+Coords: (97, 127) | Position: quadrant SE
+Coords: (97, 142) | Position: quadrant SE
+Coords: (98, 89) | Position: quadrant SE
+Coords: (104, 91) | Position: quadrant SE
+Coords: (107, 76) | Position: quadrant SE
+Coords: (107, 81) | Position: quadrant SE
+Coords: (109, 80) | Position: quadrant SE
+Coords: (112, 37) | Position: quadrant NE
+Coords: (112, 125) | Position: quadrant SE
+Coords: (114, 36) | Position: quadrant NE
+Coords: (115, 37) | Position: quadrant NE
+Coords: (117, 67) | Position: quadrant NE
+Coords: (117, 142) | Position: quadrant SE
+Coords: (123, 88) | Position: quadrant SE
+Coords: (123, 89) | Position: quadrant SE
+Coords: (123, 90) | Position: quadrant SE
+Coords: (126, 60) | Position: quadrant NE
+Coords: (127, 143) | Position: quadrant SE
+Coords: (129, 144) | Position: quadrant SE
+Coords: (130, 43) | Position: quadrant NE
+Coords: (132, 149) | Position: quadrant SE
+Coords: (133, 79) | Position: quadrant SE
+Coords: (134, 141) | Position: quadrant SE
+Coords: (136, 29) | Position: quadrant NE
+Coords: (140, 144) | Position: quadrant SE
+Coords: (148, 33) | Position: quadrant NE
+--- Tiles with 5 neighboring hills ---
+Coords: (35, 70) | Position: quadrant NW
+Coords: (45, 127) | Position: quadrant SW
+Coords: (63, 130) | Position: quadrant SW
+Coords: (73, 82) | Position: center
+Coords: (78, 38) | Position: quadrant NE
+Coords: (89, 66) | Position: center
+Coords: (109, 81) | Position: quadrant SE
+Coords: (134, 140) | Position: quadrant SE
+Coords: (135, 28) | Position: quadrant NE
+--- Tiles with 6 neighboring hills ---
+--- Tiles with 7 neighboring hills ---
