@@ -12,29 +12,36 @@ from util import *
 import math
 
 # Bot configuration
-BOT_TOKEN = " "  # Replace with your actual bot token
+BOT_TOKEN = "YOUR_BOT_TOKEN_HERE"  # Replace with your actual bot token
 
-# Settlement finder functions (copied from quickAnalyzer)
-def get_occupied_3x3_areas(strict_mode=True):
-    occupied_3x3 = set()
-    occupied_tiles = []
+# Settlement finder functions (same as quickAnalyzer)
+def get_occupied_centers():
+    """
+    Get only the center tiles of each player settlement.
+    Returns list of (center_coord, 3x3_tiles, user_id).
+    """
+    occupied_centers = []
     
     for coords, tile in map_data_instance.tiles_dict.items():
         uid = tile.get('user_id')
         if uid is not None and uid != '':
-            occupied_tiles.append((coords, tile, uid))
             x, y = coords
+            # Get all 9 tiles in this center's 3x3
+            tiles_3x3 = set()
             for dx in range(-1, 2):
                 for dy in range(-1, 2):
-                    occupied_3x3.add((x + dx, y + dy))
+                    tiles_3x3.add((x + dx, y + dy))
+            occupied_centers.append((coords, tiles_3x3, uid))
     
-    return occupied_3x3, occupied_tiles
+    return occupied_centers
 
 def get_distance(x1, y1, x2, y2):
     return math.sqrt((x2 - x1)**2 + (y2 - y1)**2)
 
 def analyze_3x3_area(coords):
+    """Analyze 3x3: settlement gives 1W/1S/1I/2F, neighbors give actual values"""
     x, y = coords
+    
     stats = {
         'coords': coords,
         'tile_counts': {},
@@ -81,7 +88,7 @@ def calculate_balanced_score(stats):
     return int(total * (0.5 + 0.5 * balance_ratio)) + 3
 
 def find_best_locations(center_x, center_y, radius, analysis_type, top_n=5):
-    blocked_areas, occupied_tiles = get_occupied_3x3_areas()
+    occupied_centers = get_occupied_centers()
     
     candidates = []
     
@@ -89,18 +96,25 @@ def find_best_locations(center_x, center_y, radius, analysis_type, top_n=5):
         if not map_data_instance.is_settlable(tile):
             continue
         
-        if coords in blocked_areas:
+        # Check if this tile is itself an occupied center
+        is_occupied_center = any(c[0] == coords for c in occupied_centers)
+        if is_occupied_center:
             continue
         
+        # Get this candidate's 3x3 area
         x, y = coords
-        has_overlap = False
+        candidate_3x3 = set()
         for dx in range(-1, 2):
             for dy in range(-1, 2):
-                if (x + dx, y + dy) in blocked_areas:
-                    has_overlap = True
-                    break
-            if has_overlap:
+                candidate_3x3.add((x + dx, y + dy))
+        
+        # Check if candidate's 3x3 overlaps with any occupied center's 3x3
+        has_overlap = False
+        for center_coord, center_3x3, uid in occupied_centers:
+            if candidate_3x3 & center_3x3:  # Set intersection
+                has_overlap = True
                 break
+        
         if has_overlap:
             continue
         
@@ -165,7 +179,7 @@ async def settlementhelp(interaction: discord.Interaction):
             "**radius** - Search distance in tiles (5-50)\n"
             "**search_type** - What to optimize for:\n"
             "  🌾 Food - Max food production\n"
-            "  ⛏️ Resources - Max total resources\n"
+            "  ⛏️ Resources - Max resources\n"
             "  ⚖️ Balanced - Equal wood/stone/iron\n"
             "**top_n** - Number of results (1-10)"
         ),
@@ -277,7 +291,7 @@ async def findsettlement(
 
 # Run the bot
 if __name__ == "__main__":
-    if BOT_TOKEN == "DONT REPLACE THIS ONE":
+    if BOT_TOKEN == "YOUR_BOT_TOKEN_HERE":
         print("ERROR: Please set your BOT_TOKEN in the script!")
         print("Get your token from: https://discord.com/developers/applications/")
         print("Go to Bot tab -> Reset Token -> Copy")
