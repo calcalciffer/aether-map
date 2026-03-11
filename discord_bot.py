@@ -15,15 +15,37 @@ import math
 BOT_TOKEN = "YOUR_BOT_TOKEN_HERE"  # Replace with your actual bot token
 
 # Settlement finder functions (same as quickAnalyzer)
+def get_player_populations():
+    """
+    Calculate total population per player (only from settlement centers).
+    Returns dict: {username: total_population}
+    """
+    player_pops = {}
+    for coords, tile in map_data_instance.tiles_dict.items():
+        uid = tile.get('user_id')
+        username = tile.get('username')
+        population = tile.get('population')
+        tile_type = tile.get('tile_type')
+        
+        # Only count settlement centers (village/town/city), not claimed tiles
+        if uid and username and population and tile_type in ['village', 'town', 'city']:
+            if username not in player_pops:
+                player_pops[username] = 0
+            player_pops[username] += population
+    
+    return player_pops
+
 def get_occupied_centers():
     """
     Get only the center tiles of each player settlement.
-    Returns list of (center_coord, 3x3_tiles, user_id).
+    Returns list of (center_coord, 3x3_tiles, user_id, username, player_population).
     """
     occupied_centers = []
+    player_pops = get_player_populations()
     
     for coords, tile in map_data_instance.tiles_dict.items():
         uid = tile.get('user_id')
+        username = tile.get('username')
         if uid is not None and uid != '':
             x, y = coords
             # Get all 9 tiles in this center's 3x3
@@ -31,7 +53,9 @@ def get_occupied_centers():
             for dx in range(-1, 2):
                 for dy in range(-1, 2):
                     tiles_3x3.add((x + dx, y + dy))
-            occupied_centers.append((coords, tiles_3x3, uid))
+            # Get player population (0 if not found)
+            player_pop = player_pops.get(username, 0) if username else 0
+            occupied_centers.append((coords, tiles_3x3, uid, username, player_pop))
     
     return occupied_centers
 
@@ -87,7 +111,7 @@ def calculate_balanced_score(stats):
     balance_ratio = max(0, 1 - (variance / max(avg, 1)))
     return int(total * (0.5 + 0.5 * balance_ratio)) + 3
 
-def find_best_locations(center_x, center_y, radius, analysis_type, top_n=5):
+def find_best_locations(center_x, center_y, radius, analysis_type, top_n=5, restricted=True):
     occupied_centers = get_occupied_centers()
     
     candidates = []
@@ -110,19 +134,37 @@ def find_best_locations(center_x, center_y, radius, analysis_type, top_n=5):
         
         # Check if candidate's 3x3 overlaps with any occupied center's 3x3
         has_overlap = False
-        for center_coord, center_3x3, uid in occupied_centers:
+        overlap_with_small_player = False
+        overlapping_player_pop = 0
+        
+        for center_coord, center_3x3, uid, username, player_pop in occupied_centers:
             if candidate_3x3 & center_3x3:  # Set intersection
                 has_overlap = True
+                overlapping_player_pop = player_pop
+                # If restricted=False, allow overlap with players having < 51 population
+                if not restricted and player_pop < 51:
+                    overlap_with_small_player = True
+                else:
+                    overlap_with_small_player = False
                 break
         
         if has_overlap:
-            continue
+            if not overlap_with_small_player:
+                continue
+            else:
+                # Overlap allowed with small player
+                stats = analyze_3x3_area(coords)
+                stats['overlap_allowed'] = True
+                stats['overlap_pop'] = overlapping_player_pop
+        else:
+            stats = analyze_3x3_area(coords)
+            stats['overlap_allowed'] = False
+            stats['overlap_pop'] = 0
         
         distance = get_distance(center_x, center_y, x, y)
         if distance > radius:
             continue
         
-        stats = analyze_3x3_area(coords)
         stats['distance'] = distance
         stats['position'] = 'center' if map_data_instance.is_center(tile) else f"quadrant {map_data_instance.get_quadrant(tile)}"
         
@@ -168,7 +210,7 @@ async def settlementhelp(interaction: discord.Interaction):
     
     embed.add_field(
         name="📝 Command",
-        value="`/findsettlement x:79 y:96 radius:15 search_type:Resources top_n:5`",
+        value="`/findsettlement x:79 y:96 radius:15 search_type:Resources top_n:5 restricted:Yes`",
         inline=False
     )
     
@@ -204,6 +246,7 @@ async def settlementhelp(interaction: discord.Interaction):
             "• Settlement tile gives 1W/1S/1I/2F\n"
             "• Only 8 neighbors count for resources\n"
             "• Excludes occupied player areas\n"
+            "• Restricted=No allows overlap with < 51 pop players\n"
             "• Larger radius = more options but slower"
         ),
         inline=False
@@ -219,12 +262,17 @@ async def settlementhelp(interaction: discord.Interaction):
     y="Your Y coordinate (0-150)",
     radius="Search radius in tiles (5-50)",
     search_type="What to optimize for",
-    top_n="Number of results (1-10)"
+    top_n="Number of results (1-10)",
+    restricted="Block overlap with small players? 'No' allows overlap with < 51 pop players"
 )
 @app_commands.choices(search_type=[
     app_commands.Choice(name="🌾 Food Production", value="food"),
     app_commands.Choice(name="⛏️ Total Resources", value="resources"),
     app_commands.Choice(name="⚖️ Balanced Resources", value="balanced"),
+])
+@app_commands.choices(restricted=[
+    app_commands.Choice(name="✅ Yes - Strict blocking (default)", value="yes"),
+    app_commands.Choice(name="⚠️ No - Allow overlap with < 51 pop players", value="no"),
 ])
 async def findsettlement(
     interaction: discord.Interaction,
@@ -232,7 +280,8 @@ async def findsettlement(
     y: int,
     radius: int,
     search_type: app_commands.Choice[str],
-    top_n: int = 5
+    top_n: int = 5,
+    restricted: app_commands.Choice[str] = None
 ):
     # Validate inputs
     if not (0 <= x <= 150 and 0 <= y <= 150):
@@ -247,10 +296,15 @@ async def findsettlement(
         await interaction.response.send_message("❌ Top N must be between 1 and 10!", ephemeral=True)
         return
     
+    # Parse restricted parameter (default to True/strict mode)
+    is_restricted = True
+    if restricted and restricted.value == "no":
+        is_restricted = False
+    
     await interaction.response.defer(thinking=True)
     
     try:
-        results = find_best_locations(x, y, radius, search_type.value, top_n)
+        results = find_best_locations(x, y, radius, search_type.value, top_n, is_restricted)
         
         if not results:
             await interaction.followup.send("❌ No suitable locations found. All areas may be occupied.")
@@ -270,19 +324,26 @@ async def findsettlement(
         )
         
         for i, r in enumerate(results, 1):
+            # Add overlap tag if applicable
+            overlap_tag = ""
+            overlap_note = ""
+            if r.get('overlap_allowed'):
+                overlap_tag = " `#Overlap`"
+                overlap_note = f"\n[!] Overlap allowed - Player has only {r.get('overlap_pop', 0)} pop (probably inactive)"
+            
             field_value = (
-                f"**Tiles:** {format_tile_counts(r)}\n"
+                f"**Tiles:** {format_tile_counts(r)}{overlap_note}\n"
                 f"**Food:** {r['total_food']} | **Resources:** {r['total_resources']} "
                 f"(W:{r['total_wood']} S:{r['total_stone']} I:{r['total_iron']})\n"
                 f"**Distance:** {r['distance']:.1f} tiles | **Position:** {r['position']}"
             )
             embed.add_field(
-                name=f"#{i} | Coordinates: {r['coords']}",
+                name=f"#{i} | Coordinates: {r['coords']}{overlap_tag}",
                 value=field_value,
                 inline=False
             )
         
-        embed.set_footer(text="Settlement tile gives 1W/1S/1I/2F | 3x3 areas exclude occupied tiles")
+        embed.set_footer(text="Settlement tile gives 1W/1S/1I/2F | #Overlap = overlap with < 51 pop player allowed")
         
         await interaction.followup.send(embed=embed)
         
