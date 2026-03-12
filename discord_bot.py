@@ -7,12 +7,21 @@ import discord
 from discord import app_commands
 from discord.ext import commands
 import sys
+import os
+
+# Try to load from .env file if python-dotenv is installed
+try:
+    from dotenv import load_dotenv
+    load_dotenv()
+except ImportError:
+    pass  # dotenv not installed, use environment variables directly
+
 sys.path.insert(0, 'src')
 from util import *
 import math
 
-# Bot configuration
-BOT_TOKEN = "YOUR_BOT_TOKEN_HERE"  # Replace with your actual bot token
+# Bot configuration - read from environment variable
+BOT_TOKEN = os.getenv('DISCORD_BOT_TOKEN', 'YOUR_BOT_TOKEN_HERE')
 
 # Settlement finder functions (same as quickAnalyzer)
 def get_player_populations():
@@ -353,8 +362,12 @@ async def findsettlement(
 # Run the bot
 if __name__ == "__main__":
     if BOT_TOKEN == "YOUR_BOT_TOKEN_HERE":
-        print("ERROR: Please set your BOT_TOKEN in the script!")
-        print("Get your token from: https://discord.com/developers/applications/")
+        print("ERROR: Bot token not configured!")
+        print("\nOptions:")
+        print("1. Create a .env file with: DISCORD_BOT_TOKEN=your_token_here")
+        print("2. Or set environment variable: DISCORD_BOT_TOKEN=your_token_here")
+        print("3. Or edit discord_bot.py and replace YOUR_BOT_TOKEN_HERE")
+        print("\nGet your token from: https://discord.com/developers/applications/")
         print("Go to Bot tab -> Reset Token -> Copy")
         sys.exit(1)
     
