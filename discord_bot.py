@@ -202,6 +202,9 @@ def format_tile_counts(stats):
 intents = discord.Intents.default()
 client = discord.Client(intents=intents)
 tree = app_commands.CommandTree(client)
+# Resource optimizer commands (/optimize, /optimizehelp)
+from optimizer_commands import register_optimizer_commands
+register_optimizer_commands(tree)
 
 @client.event
 async def on_ready():
